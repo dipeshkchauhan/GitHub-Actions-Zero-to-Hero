@@ -1,6 +1,6 @@
 # app.py
 # This is a test commit
-#test github
+#test githu
 def add(a, b):
     return a + b
 
